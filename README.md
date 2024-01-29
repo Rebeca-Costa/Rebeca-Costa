@@ -1,4 +1,4 @@
-![Banner](https://github.com/Rebeca-Costa/Rebeca-Costa/assets/91966590/4179f971-5e70-4a92-bed1-189316a1c7b5)
+![Banner](https://github.com/Rebeca-Costa/Rebeca-Costa/assets/91966590/07d8f7f3-58da-4182-9582-7d07edacd0f3)
 
 ### Olá! Eu sou a Rebeca Costa
 
