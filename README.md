@@ -29,5 +29,5 @@
   <a href="mailto:rebecacostadesa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebeca-costa-48ab2921a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/rebecacosta2006/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <img height="120px" width="120px" align="center" src="">
+  <img height="120px" width="120px" align="center" src="https://github.com/Rebeca-Costa/Rebeca-Costa/assets/91966590/15f2e55e-7f21-4162-a8fc-bfec6f5d1fc7">
 </div>
