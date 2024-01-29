@@ -1,4 +1,4 @@
-![Rebeca Costa](https://github.com/Rebeca-Costa/Rebeca-Costa/assets/91966590/4179f971-5e70-4a92-bed1-189316a1c7b5)
+![Banner](https://github.com/Rebeca-Costa/Rebeca-Costa/assets/91966590/4179f971-5e70-4a92-bed1-189316a1c7b5)
 
 ### Olá! Eu sou a Rebeca Costa
 
@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/Rebeca-Costa">
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api?username=Rebeca-Costa&theme=vision-friendly-dark&show_icons=true">
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeca-Costa&theme=vision-friendly-dark&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rebeca-Costa&theme=vision-friendly-dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebeca-Costa&theme=vision-friendly-dark&layout=compact">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
